@@ -1,5 +1,5 @@
 [Variables]
-WinColor=6EB8BB
-WinAlpha=AD
-InvColor=441D1B
-AltColor=ED373A
+WinColor=CEB367
+WinAlpha=A7
+InvColor=181E30
+AltColor=4D32E6

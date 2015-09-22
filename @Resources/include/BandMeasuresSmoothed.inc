@@ -474,43 +474,43 @@ AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed94]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw93 + MeasureAudioRaw94 + MeasureAudioRaw95)/3.1
+Formula=#MinBarValue# + (MeasureAudioRaw93 + MeasureAudioRaw94 + MeasureAudioRaw95)/3
 ;4
 AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed95]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw94 + MeasureAudioRaw95 + MeasureAudioRaw96)/3.2
+Formula=#MinBarValue# + (MeasureAudioRaw94 + MeasureAudioRaw95 + MeasureAudioRaw96)/3
 ;5
 AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed96]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw95 + MeasureAudioRaw96 + MeasureAudioRaw97)/3.3
+Formula=#MinBarValue# + (MeasureAudioRaw95 + MeasureAudioRaw96 + MeasureAudioRaw97)/3
 ;6
 AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed97]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw96 + MeasureAudioRaw97 + MeasureAudioRaw98)/3.4
+Formula=#MinBarValue# + (MeasureAudioRaw96 + MeasureAudioRaw97 + MeasureAudioRaw98)/3
 ;7
 AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed98]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw97 + MeasureAudioRaw98 + MeasureAudioRaw99)/3.5
+Formula=#MinBarValue# + (MeasureAudioRaw97 + MeasureAudioRaw98 + MeasureAudioRaw99)/3
 ;8
 AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed99]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw98 + MeasureAudioRaw99 + MeasureAudioRaw100)/3.6
+Formula=#MinBarValue# + (MeasureAudioRaw98 + MeasureAudioRaw99 + MeasureAudioRaw100)/3
 ;9
 AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed100]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw99 + MeasureAudioRaw100 + MeasureAudioRaw100)/3.7
+Formula=#MinBarValue# + (MeasureAudioRaw99 + MeasureAudioRaw100)/2
 ;10
 AverageSize=#AverageSize#
 MaxValue=2

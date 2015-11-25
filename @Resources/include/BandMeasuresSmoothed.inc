@@ -504,7 +504,7 @@ AverageSize=#AverageSize#
 MaxValue=2
 [MeasureAudioSmoothed99]
 Measure=Calc
-Formula=#MinBarValue# + (MeasureAudioRaw98 + MeasureAudioRaw99 + MeasureAudioRaw100)/3
+Formula=#MinBarValue# + (MeasureAudioRaw98 + MeasureAudioRaw99)/2
 ;9
 AverageSize=#AverageSize#
 MaxValue=2
